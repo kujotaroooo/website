@@ -3,7 +3,7 @@
  ?>
 <!DOCTYPE html>
 <html lang="en">
-  <!-- codebyrolex    visit our website https://codebyrolex.com/ -->
+  
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -11,7 +11,6 @@
   
 </head>
 <style>@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
-/* codebyrolex    visit our website https://codebyrolex.com/ */
 * {
   margin: 0;
   padding: 0;
